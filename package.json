@@ -24,7 +24,10 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-slack": "latest",
     "underscore": "^1.6.0",
-    "handlebars": "^2.0.0-alpha.2"
+    "handlebars": "^2.0.0-alpha.2",
+    "underscore.string": "^2.3.0",
+    "htmlparser": "^1.7.6",
+    "soupselect": "^0.2.0"
   },
   "engines": {
     "node": ">= 0.8.x",
