@@ -1,1 +1,1 @@
-["redis-brain.coffee", "url.coffee", "wikipedia.coffee", "xkcd.coffee"]
+["redis-brain.coffee", "url.coffee", "wikipedia.coffee", "xkcd.coffee", "isup.coffee"]
