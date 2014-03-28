@@ -1,1 +1,9 @@
-["redis-brain.coffee", "url.coffee", "wikipedia.coffee", "xkcd.coffee", "isup.coffee"]
+[
+    "redis-brain.coffee",
+    "url.coffee",
+    "wikipedia.coffee",
+    "xkcd.coffee",
+    "isup.coffee",
+    "flip.coffee",
+    "google.coffee"
+]
