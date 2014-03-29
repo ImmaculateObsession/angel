@@ -26,9 +26,10 @@
     "underscore": "^1.6.0",
     "handlebars": "^2.0.0-alpha.2",
     "underscore.string": "^2.3.0",
-    "htmlparser": "^1.7.6",
+    "htmlparser": "latest",
     "soupselect": "latest",
-    "flip": "latest"
+    "flip": "latest",
+    "validator": "latest"
   },
   "engines": {
     "node": ">= 0.8.x",
