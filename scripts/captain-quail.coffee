@@ -31,4 +31,5 @@ module.exports = (robot) ->
                 comic = img[0].attribs
 
                 msg.send link.href
+                msg.send comic.src
                 msg.send comic.alt
