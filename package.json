@@ -29,7 +29,8 @@
     "htmlparser": "latest",
     "soupselect": "latest",
     "flip": "latest",
-    "validator": "latest"
+    "validator": "latest",
+    "heroku": "^0.1.2"
   },
   "engines": {
     "node": ">= 0.8.x",
