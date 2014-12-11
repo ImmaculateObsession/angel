@@ -30,7 +30,8 @@
     "soupselect": "latest",
     "flip": "latest",
     "validator": "latest",
-    "heroku": "^0.1.2"
+    "heroku": "^0.1.2",
+    "hubot-heroku-keepalive": "0.0.4"
   },
   "engines": {
     "node": ">= 0.8.x",
