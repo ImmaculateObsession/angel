@@ -22,7 +22,7 @@
   "dependencies": {
     "hubot": "^2.7.2",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "latest",
+    "hubot-slack": "^3.1.0",
     "underscore": "^1.6.0",
     "handlebars": "^2.0.0-alpha.2",
     "underscore.string": "^2.3.0",
